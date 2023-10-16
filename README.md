@@ -45,11 +45,14 @@ Desenvolver um aplicativo dedicado ao bem-estar emocional, com foco na criação
       
 12.    **Profissionais**
     - Pscólogos possiveis.
-   Dra. Liliane Cruz
-   Dra. Adriana Santos
-   Dra. Sheyla
-   Dra. Anaina Matias
-   Dra. Esneda Teixeira
+  > Dra. Liliane Cruz
+  > Dra. Adriana Santos
+  > Dra. Sheyla
+  > Dra. Anaina Matias
+  > Dra. Esneda Teixeira
+   _ Terapeutas
+> Anderson Machado
+> Telma Machado
 ### Implementação
 - Desenvolvimento de aplicativo para iOS e Android.
 - Utilização de tecnologias modernas para garantir desempenho e segurança.
