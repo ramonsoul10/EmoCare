@@ -42,7 +42,14 @@ Desenvolver um aplicativo dedicado ao bem-estar emocional, com foco na criação
 
 11. **Feedback da Comunidade:**
     - Promova uma cultura de apoio e feedback positivo.
-
+      
+12.    **Profissionais**
+    - Pscólogos possiveis.
+   Dra. Liliane Cruz
+   Dra. Adriana Santos
+   Dra. Sheyla
+   Dra. Anaina Matias
+   Dra. Esneda Teixeira
 ### Implementação
 - Desenvolvimento de aplicativo para iOS e Android.
 - Utilização de tecnologias modernas para garantir desempenho e segurança.
@@ -56,6 +63,7 @@ Desenvolver um aplicativo dedicado ao bem-estar emocional, com foco na criação
 ### Monetização
 - Oferecer uma versão gratuita com recursos básicos.
 - Oferecer assinaturas premium para acesso a recursos avançados.
+- Atendimento especializado por audio e/ video chamada.
 - Parcerias com profissionais de saúde mental para oferecer serviços pagos.
 
 Este é um rascunho inicial do projeto. É fundamental trabalhar em detalhes como design de interface, desenvolvimento, estratégia de marketing e monetização à medida que o projeto avança. Consulte especialistas em desenvolvimento de aplicativos e psicólogos para obter orientações adicionais.
